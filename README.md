@@ -3,7 +3,7 @@
 **From WhatsApp enquiry to approved quotation.** An automation module concept for the Orbyte business hub, built for the Orbyte Smart SME Challenge (Domain 2).
 
 - **Live demo:** https://25072967-star.github.io/QuoteDesk/
-- **Team:** [add team name and members]
+- **Team:** Pink Needoh (Sarah Khadija)
 
 ## The problem
 
